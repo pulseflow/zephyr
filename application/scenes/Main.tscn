@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://cmyo744fild8l"]
+
+[node name="Zephyr" type="Node2D"]
+
+[node name="Background" type="CanvasLayer" parent="."]
+
+[node name="Sync" type="CanvasLayer" parent="."]
+
+[node name="Objects" type="CanvasLayer" parent="."]
+
+[node name="Interface" type="CanvasLayer" parent="."]

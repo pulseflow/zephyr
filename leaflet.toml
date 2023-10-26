@@ -1,0 +1,4 @@
+[base]
+name = "zephyr"
+infer = true
+root = "./."
